@@ -7,6 +7,7 @@ C# .NET Standard 2.0 port of [alizain/ulid](https://github.com/alizain/ulid)
 ## Usage
 
 ```c#
+using System;
 using CSharp.Ulid;
 
 internal class Program
